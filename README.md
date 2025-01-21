@@ -1,5 +1,3 @@
-### Automatic Ticket Classification
-
 # Automatic Ticket Classification
 
 This project implements a machine learning-based pipeline to classify customer complaints into predefined categories using Natural Language Processing (NLP) and a neural network model. The aim is to automate the classification of complaints into topics like "Bank Account Services" or "Mortgage/Loan," enhancing customer service efficiency.
