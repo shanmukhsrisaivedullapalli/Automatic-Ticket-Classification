@@ -46,7 +46,7 @@ This project implements a machine learning-based pipeline to classify customer c
    python -m spacy download en_core_web_sm
    ```
 
-4. Place the dataset file (`complaints-2021-05-14_08_16_.json`) in the `input/` directory.
+4. Place the dataset file (https://www.kaggle.com/datasets/venkatasubramanian/automatic-ticket-classification) in the `input/` directory.
 
 ## Usage
 1. Open the `Automatic Ticket Classification` Jupyter Notebook:
