@@ -1,0 +1,9 @@
+NumPy
+Pandas
+Matplotlib
+Seaborn
+SpaCy
+TensorFlow
+Scikit-learn
+WordCloud
+TQDM
